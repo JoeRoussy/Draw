@@ -1,0 +1,9 @@
+C:\Users\Joe Roussy\Documents\School Work\Third Year\Term 2\SE 3353\Assignment 3\SimpleSketchPad\SimpleSketchPad\bin\Debug\SimpleSketchPad.exe.config
+C:\Users\Joe Roussy\Documents\School Work\Third Year\Term 2\SE 3353\Assignment 3\SimpleSketchPad\SimpleSketchPad\bin\Debug\SimpleSketchPad.exe
+C:\Users\Joe Roussy\Documents\School Work\Third Year\Term 2\SE 3353\Assignment 3\SimpleSketchPad\SimpleSketchPad\bin\Debug\SimpleSketchPad.pdb
+C:\Users\Joe Roussy\Documents\School Work\Third Year\Term 2\SE 3353\Assignment 3\SimpleSketchPad\SimpleSketchPad\obj\Debug\SimpleSketchPad.MainWindow.resources
+C:\Users\Joe Roussy\Documents\School Work\Third Year\Term 2\SE 3353\Assignment 3\SimpleSketchPad\SimpleSketchPad\obj\Debug\SimpleSketchPad.Properties.Resources.resources
+C:\Users\Joe Roussy\Documents\School Work\Third Year\Term 2\SE 3353\Assignment 3\SimpleSketchPad\SimpleSketchPad\obj\Debug\SimpleSketchPad.csproj.GenerateResource.Cache
+C:\Users\Joe Roussy\Documents\School Work\Third Year\Term 2\SE 3353\Assignment 3\SimpleSketchPad\SimpleSketchPad\obj\Debug\SimpleSketchPad.exe
+C:\Users\Joe Roussy\Documents\School Work\Third Year\Term 2\SE 3353\Assignment 3\SimpleSketchPad\SimpleSketchPad\obj\Debug\SimpleSketchPad.pdb
+C:\Users\Joe Roussy\Documents\School Work\Third Year\Term 2\SE 3353\Assignment 3\SimpleSketchPad\SimpleSketchPad\obj\Debug\SimpleSketchPad.csprojResolveAssemblyReference.cache
